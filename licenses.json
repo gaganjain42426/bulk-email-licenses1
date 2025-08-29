@@ -1,32 +1,12 @@
 {
-  "GJ-001-ABCD": {
+  "GAGAN-001": {
     "status": "valid",
-    "plan": "Basic",
-    "expiry": "2025-12-31",
-    "features": {
-      "attachments": false,
-      "signature": false,
-      "daily_limit": 100
-    }
-  },
-  "GJ-002-XYZT": {
-    "status": "valid",
-    "plan": "Pro",
-    "expiry": "2026-12-31",
-    "features": {
-      "attachments": true,
-      "signature": true,
-      "daily_limit": 999999
-    }
-  },
-  "GJ-003-TEST": {
-    "status": "revoked",
-    "plan": "Pro",
-    "expiry": "2026-12-31",
-    "features": {
-      "attachments": true,
-      "signature": true,
-      "daily_limit": 999999
-    }
+    "expiry": "2026-08-31",
+    "features": { 
+      "pro": true, 
+      "daily_limit": 500 
+    },
+    "fingerprint": "PENDING"
   }
 }
+
