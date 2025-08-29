@@ -1,12 +1,10 @@
-{
+{{
   "GAGAN-001": {
     "status": "valid",
     "expiry": "2026-08-31",
-    "features": { 
-      "pro": true, 
-      "daily_limit": 500 
-    },
-    "fingerprint": "PENDING"
+    "features": { "pro": true, "daily_limit": 500 },
+    "fingerprint": "PASTE_USER_FINGERPRINT_HERE"
   }
 }
+
 
