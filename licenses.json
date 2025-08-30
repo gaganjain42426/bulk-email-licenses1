@@ -2,11 +2,19 @@
   "GAGAN-001": {
     "status": "valid",
     "expiry": "2026-08-31",
-    "features": { 
-      "pro": true,
-      "daily_limit": 500
-    },
-    "fingerprint": "943f9f753de2da9672b5340f014bd88eaca01ebf0b24343a775e7ff83bac5288"
+    "fingerprint": "PENDING", 
+    "features": {
+      "daily_limit": 500,
+      "attachments": true,
+      "save_settings": true,
+      "progress_feedback": true,
+      "pause_resume": true,
+      "data_editor": false,
+      "placeholders": true,
+      "signature_manager": true,
+      "embedded_signature_images": false,
+      "dark_mode": true,
+      "sound": true
+    }
   }
 }
-
