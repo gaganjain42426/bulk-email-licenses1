@@ -1,5 +1,5 @@
 {
-  "GAGAN-001": {
+  "TEST-001": {
     "status": "valid",
     "expiry": "2026-12-31",
     "fingerprint": "*",
@@ -17,4 +17,3 @@
     "daily_limit": 500
   }
 }
-
