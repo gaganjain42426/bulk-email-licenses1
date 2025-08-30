@@ -2,7 +2,7 @@
   "GAGAN-001": {
     "status": "valid",
     "expiry": "2026-12-31",
-    "fingerprint": "*" or "*",
+    "fingerprint": "*",
     "features": {
       "save_settings": true,
       "dark_mode": true,
@@ -17,3 +17,4 @@
     "daily_limit": 500
   }
 }
+
