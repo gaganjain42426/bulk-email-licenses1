@@ -4,17 +4,18 @@
     "expiry": "2026-12-31",
     "fingerprint": "*",
     "features": {
-      "daily_limit": 500,
-      "attachments": true,
+      "daily_limit": 50000,
+      "attachments": false,
       "save_settings": true,
       "progress_feedback": true,
       "pause_resume": true,
       "data_editor": true,
       "placeholders": true,
-      "signature_manager": true,
+      "signature_manager": false,
       "embedded_signature_images": true,
-      "dark_mode": true,
+      "dark_mode": false,
       "sound": true
     }
   }
 }
+
