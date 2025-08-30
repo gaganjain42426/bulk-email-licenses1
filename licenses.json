@@ -1,5 +1,5 @@
 {
-  "cloud-001": {
+  "GAGAN-001": {
     "status": "valid",
     "expiry": "2025-12-31",
     "fingerprint": "*",
@@ -14,7 +14,9 @@
       "pause_resume": true,
       "progress_feedback": true,
       "sound": true,
-      "daily_limit": 1000
+      "daily_limit": 500,
+      "name": "Gagan",
+      "plan": "Professional"
     }
   }
 }
