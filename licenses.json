@@ -1,5 +1,5 @@
 {
-  "GAGAN-001": {
+  "cloud-001": {
     "status": "valid",
     "expiry": "2025-12-31",
     "fingerprint": "*",
@@ -18,4 +18,3 @@
     }
   }
 }
-
