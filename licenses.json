@@ -1,20 +1,84 @@
 {
-  "cloud-001": {
-    "status": "valid",
-    "expiry": "2025-12-31",
-    "fingerprint": "*",
-    "features": {
-      "save_settings": true,
-      "dark_mode": true,
-      "attachments": true,
-      "signature_manager": true,
-      "data_editor": true,
-      "placeholders": true,
-      "embedded_signature_images": true,
-      "pause_resume": true,
-      "progress_feedback": true,
-      "sound": true,
-      "daily_limit": 1000
+  "licenses": [
+    {
+      "key": "FREE-TRIAL-001",
+      "status": "valid",
+      "expiry": "2025-12-31",
+      "fingerprint": "*",
+      "daily_limit": 5,
+      "features": {
+        "save_settings": false,
+        "attachments": false,
+        "signature_manager": false,
+        "data_editor": false,
+        "placeholders": false,
+        "embedded_signature_images": false,
+        "pause_resume": false,
+        "progress_feedback": false,
+        "sound": false
+      }
+    },
+    {
+      "key": "PRO-PLAN-002",
+      "status": "valid",
+      "expiry": "2026-12-31",
+      "fingerprint": "*",
+      "daily_limit": 500,
+      "features": {
+        "save_settings": true,
+        "attachments": true,
+        "signature_manager": true,
+        "data_editor": true,
+        "placeholders": true,
+        "embedded_signature_images": true,
+        "pause_resume": true,
+        "progress_feedback": true,
+        "sound": true
+      }
+    },
+    {
+      "key": "PRO-PLAN-003",
+      "status": "valid",
+      "expiry": "2026-12-31",
+      "fingerprint": "b59a68c0-8d5f-4a7b-a45e-4b9e7d8c1c2f-00:1a:2b:3c:4d:5e-JohnDoe-PC",
+      "daily_limit": 1000,
+      "features": {
+        "save_settings": true,
+        "attachments": true,
+        "signature_manager": true,
+        "data_editor": true,
+        "placeholders": true,
+        "embedded_signature_images": true,
+        "pause_resume": true,
+        "progress_feedback": true,
+        "sound": true
+      }
+    },
+    {
+      "key": "EXPIRED-PLAN-004",
+      "status": "valid",
+      "expiry": "2024-01-01",
+      "fingerprint": "*",
+      "daily_limit": 100,
+      "features": {
+        "save_settings": true,
+        "attachments": true,
+        "signature_manager": true,
+        "data_editor": true,
+        "placeholders": true,
+        "embedded_signature_images": true,
+        "pause_resume": true,
+        "progress_feedback": true,
+        "sound": true
+      }
+    },
+    {
+      "key": "INVALID-PLAN-005",
+      "status": "invalid",
+      "expiry": null,
+      "fingerprint": "*",
+      "daily_limit": 0,
+      "features": {}
     }
-  }
+  ]
 }
