@@ -5,17 +5,18 @@
     "fingerprint": "*",
     "features": {
       "daily_limit": 50000,
-      "attachments": false,
+      "attachments": true,
       "save_settings": true,
       "progress_feedback": true,
       "pause_resume": true,
       "data_editor": true,
       "placeholders": true,
-      "signature_manager": false,
+      "signature_manager": true,
       "embedded_signature_images": true,
-      "dark_mode": false,
+      "dark_mode": true,
       "sound": true
     }
   }
 }
+
 
