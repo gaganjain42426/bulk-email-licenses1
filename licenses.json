@@ -1,7 +1,7 @@
 {
 "licenses": {
-"USER-KEY-1234": {
-"machine_id": "abcdef1234567890",
+"GAGAN-001": {
+"machine_id": "4684f7f6f4d586cc2682fbef1ec39a2413daccad61e077942386f00c6d325cb0",
 "expiry": "2026-09-01"
 },
 "ANOTHER-KEY-5678": {
@@ -10,3 +10,4 @@
 }
 }
 }
+
